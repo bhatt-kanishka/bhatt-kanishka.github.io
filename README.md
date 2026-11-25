@@ -1,13 +1,13 @@
-# ⚡ EndpointCraft — Backend Development Documentation
+# EndpointCraft — Backend Development Documentation
 
 Welcome to **EndpointCraft**, the official interactive documentation and portfolio website for the **Backend Development** coursework completed by **Kanishka Bhatt** at the **University of Petroleum and Energy Studies (UPES)**.
 
-🌐 **Live Website**: [https://bhatt-kanishka.github.io/](https://bhatt-kanishka.github.io/)  
-📦 **Source Repository**: [https://github.com/bhatt-kanishka/Backend_Development](https://github.com/bhatt-kanishka/Backend_Development)
+**Live Website**: [https://bhatt-kanishka.github.io/](https://bhatt-kanishka.github.io/)  
+**Source Repository**: [https://github.com/bhatt-kanishka/Backend_Development](https://github.com/bhatt-kanishka/Backend_Development)
 
 ---
 
-## 🎓 Student Details
+## Student Details
 
 | Attribute | Value |
 |:----------|:------|
@@ -19,22 +19,22 @@ Welcome to **EndpointCraft**, the official interactive documentation and portfol
 
 ---
 
-## 📖 About EndpointCraft
+## About EndpointCraft
 
 **EndpointCraft** is a zero-build, static documentation platform designed with a modern "Smartech" pastel mauve theme. It acts as an interactive browser for all backend laboratory experiments, theory modules, practical tasks, course plans, and syllabus matrices.
 
 ### Key Capabilities:
-- 🎨 **Pastel Mauve Theme**: Soft rounded cards (16–24px radius), subtle shadows, DM Sans typography, and circular progress rings.
-- 🧪 **Complete Lab Mapping**: Direct links to all 7 laboratory experiments with dependencies, execution commands, and copy-ready code blocks.
-- 📚 **Comprehensive Theory**: 11 academic and practical theory topics spanning REST APIs, ORM/ODM, Pydantic validation, and Docker Compose.
-- 🔍 **Live Search**: Instant client-side search across titles, concepts, file paths, and documentation contents.
-- 🔗 **Deep-Linkable Routing**: Supports hash routing (`#labs/student-api`, `#theory/lecture-15`) and path-based routing (`#dir=/Lab/Experiment_12A/&file=Readme.md`).
-- ⚡ **Offline & Zero-Latency**: Bundled with a comprehensive manifest and embedded cache for instant rendering without API rate limits.
-- 📱 **Fully Responsive**: Collapsible sidebar, mobile overlay navigation, and accessible semantic HTML5.
+- **Pastel Mauve Theme**: Soft rounded cards (16–24px radius), subtle shadows, DM Sans typography, and circular progress rings.
+- **Complete Lab Mapping**: Direct links to all 7 laboratory experiments with dependencies, execution commands, and copy-ready code blocks.
+- **Comprehensive Theory**: 11 academic and practical theory topics spanning REST APIs, ORM/ODM, Pydantic validation, and Docker Compose.
+- **Live Search**: Instant client-side search across titles, concepts, file paths, and documentation contents.
+- **Deep-Linkable Routing**: Supports hash routing (`#labs/student-api`, `#theory/lecture-15`) and path-based routing (`#dir=/Lab/Experiment_12A/&file=Readme.md`).
+- **Offline & Zero-Latency**: Bundled with a comprehensive manifest and embedded cache for instant rendering without API rate limits.
+- **Fully Responsive**: Collapsible sidebar, mobile overlay navigation, and accessible semantic HTML5.
 
 ---
 
-## 🗂️ Project & Repository Structure
+## Project & Repository Structure
 
 ```text
 bhatt-kanishka.github.io/
@@ -53,7 +53,7 @@ bhatt-kanishka.github.io/
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Technology | Category | Role |
 |:-----------|:---------|:-----|
@@ -66,7 +66,7 @@ bhatt-kanishka.github.io/
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 Because EndpointCraft uses pure HTML, CSS, and JavaScript with no build step required, you can run it immediately using any local static web server:
 
@@ -90,7 +90,7 @@ Right-click on `index.html` inside VS Code and select **"Open with Live Server"*
 
 ---
 
-## 🌐 GitHub Pages Deployment Guide
+## GitHub Pages Deployment Guide
 
 EndpointCraft is designed for seamless, one-click hosting on **GitHub Pages**:
 
@@ -118,7 +118,7 @@ EndpointCraft is designed for seamless, one-click hosting on **GitHub Pages**:
 
 ---
 
-## 📋 Coursework Curriculum Overview
+## Coursework Curriculum Overview
 
 ### Laboratory Experiments (`Lab/`):
 1. **Experiment 1**: Semantic HTML5 Elements, Web Forms, Audio/Video, Canvas 2D
@@ -144,6 +144,6 @@ EndpointCraft is designed for seamless, one-click hosting on **GitHub Pages**:
 
 ---
 
-## 📄 License & Credits
+## License & Credits
 
 Created by **Kanishka Bhatt** for the **Backend Development** coursework at **UPES**. All code and documentation are strictly for educational and portfolio presentation purposes.
